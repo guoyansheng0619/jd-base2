@@ -1,3 +1,4 @@
+# 其他大佬的库 https://github.com/dockere/jd-base 这是地址
 # jd-base
 如果您是第一次安装，请等待1-2分钟后执行：docker exec -it jd bash git_pull，食用方法↓：
  ```
